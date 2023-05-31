@@ -39,12 +39,12 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | √ 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](../master/Basics/182_Duplicate_Emails.sql) | 
-| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](../master/Basics/511_Game_Play_Analysis_I.sql) |
-| 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](../master/Basics/578_Get_Highest_Answer_Rate_Question.sql) | 
-| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) | 
-| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Basics/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Basics/595_Big_Countries.sql) |
-| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Basics/596_Classes_More_Than_5_Students.sql) | 
+| √ 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](../master/Basics/511_Game_Play_Analysis_I.sql) |
+| √ 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](../master/Basics/578_Get_Highest_Answer_Rate_Question.sql) | 
+| √ 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) | 
+| √ 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Basics/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
+| √ 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Basics/595_Big_Countries.sql) |
+| √ 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Basics/596_Classes_More_Than_5_Students.sql) | 
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Basics/619_Biggest_Single_Number.sql) | 
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Basics/620_Not_Boring_Movies.sql) | 
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
